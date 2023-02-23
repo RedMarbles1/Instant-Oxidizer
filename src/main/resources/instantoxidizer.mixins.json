@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "net.redmarbles1.instantoxidizer.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+      "InstantOxidizerMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

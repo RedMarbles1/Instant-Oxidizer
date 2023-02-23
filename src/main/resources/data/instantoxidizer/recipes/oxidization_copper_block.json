@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "instant_oxidization",
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:copper_block"
+    },
+    "B": {
+      "item": "instantoxidizer:oxidizer"
+    }
+  },
+  "result": {
+    "item": "minecraft:oxidized_copper",
+    "count": 8
+  }
+}
+
