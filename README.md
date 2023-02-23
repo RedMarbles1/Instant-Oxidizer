@@ -1,7 +1,7 @@
 # Instant Oxidizer
 A minecraft mod to instantly oxidize your copper blocks!
 
-##Important:
+## Important:
 This mod is only for 1.19.3! Older minecraft versions are unlikely to work and untested.
 
 ## How to use
@@ -10,6 +10,3 @@ Then surround the instant oxidizer with any copper block (copper blocks, cut cop
 
 ## Dependencies 
 • Fabric API
-
-##Note:
-This mod is only for 1.19.3! Older minecraft versions are unlikely to work and untested
