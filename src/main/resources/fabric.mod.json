@@ -8,8 +8,8 @@
 		"RedMarbles1"
 	],
 	"contact": {
-		"homepage": "",
-		"sources": ""
+		"homepage": "https://modrinth.com/mod/instant-oxidizer/",
+		"sources": "https://github.com/RedMarbles1/Instant-Oxidizer"
 	},
 	"license": "MIT License",
 	"icon": "assets/instantoxidizer/icon.png",
